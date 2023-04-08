@@ -25,6 +25,6 @@
 <a href="https://rendition-3.vercel.app/" alt="Version 3"><img alt="Version 3" src="/assets/low_opacity.png"></a>
 <hr>
 <p><b>3 different versions of the same base template with minor tweaks. Modification and attribution of the source code are permitted.</b></p><hr><br>
-<p><em>Syndication of attribution terms adhere to the OPEN GNU 3.0 licensing standards. Refer the terms </em><a href="https://spdx.org/licenses/MIT"><em>here.</em></a></p>
+<p align="center"><em>Syndication of attribution terms adhere to the OPEN GNU 3.0 licensing standards. Refer the terms </em><a href="https://spdx.org/licenses/MIT"><em>here.</em></a></p>
 
 
